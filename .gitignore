@@ -1,0 +1,11 @@
+.env
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+!payswift/server.pyc
+quickdrop.db*
+.pytest_cache/
+.coverage
+*.log
+!demo.png
